@@ -161,7 +161,7 @@ function default_settings() {
   HN="haos$stable"
   CPU_TYPE=" -cpu host"
   CORE_COUNT="2"
-  RAM_SIZE="4096"
+  RAM_SIZE="8192"
   BRG="vmbr0"
   MAC="$GEN_MAC"
   VLAN=""
